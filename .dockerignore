@@ -1,0 +1,7 @@
+# we will create our own in runtime
+node_modules
+
+# useless config in runtime
+.elasticbeanstalk
+
+# dist will be deleted during build proccess
